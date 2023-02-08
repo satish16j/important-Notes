@@ -1,0 +1,7 @@
+NOTE1(max_element  in an array etc.)
+https://www.geeksforgeeks.org/max_element-in-cpp/
+
+
+NOTE2:
+for(auto i: v)
+https://www.geeksforgeeks.org/range-based-loop-c/
