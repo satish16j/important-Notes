@@ -5,3 +5,8 @@ https://www.geeksforgeeks.org/max_element-in-cpp/
 NOTE2:
 for(auto i: v)
 https://www.geeksforgeeks.org/range-based-loop-c/
+
+NOTE 3: vector insertion at specified index.
+ // Inserting the value 100 at position 3(0-based
+    vector_name.insert(vector_name.begin() + 3, 100);
+  
